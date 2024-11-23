@@ -1,0 +1,3 @@
+/home/23ptv104@ibst.psu/TIMP/laba2_chast1/main.cpp
+/home/23ptv104@ibst.psu/TIMP/laba2_chast1/modGronsfeld.h
+/home/23ptv104@ibst.psu/TIMP/laba2_chast1/modGronsfeld.cpp
